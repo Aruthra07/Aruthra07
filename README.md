@@ -1,86 +1,83 @@
-<h1 align="center">Hi 👋, I'm Aruthra</h1>
-<h3 align="center">A passionate aspiring developer | Eloquence in Engineering | Dynamic Wordsmith | Freelance Content Writer | Engaging Public Speaker | Numismatic Enthusiast | Tech Explorer with Creative Flair</h3>
 
-<ul>
-  <li>🔭 I’m currently working on <em>Mini projects</em></li>
-  <li>🌱 I’m currently learning <em>Python, JavaScript</em></li>
-  <li>👯 I’m looking to collaborate on <em>Anything good that comes my way</em></li>
-  <li>🤝 I’m looking for help with <em>Learning and growing together with a good community</em></li>
-  <li>👨‍💻 Take a look at my portfolio: <a href="https://aruthra785portfolio.my.canva.site/" target="_blank">aruthra785portfolio.my.canva.site</a></li>
-  <li>📝 I regularly write articles on <a href="https://example.com" target="_blank">Psychological contexts, motivation, and a bit of technology</a></li>
-  <li>💬 Ask me about <em>my passion for the intersection of words and wisdom, my journey as a motivational speaker, and my love for numismatics.</em></li>
-  <li>📫 How to reach me: <em><a href="mailto:aruthramani785@outlook.com">aruthramani785@outlook.com</a></em></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1YJTRE7Lo9jEMBWO9E_wWvL7wVaE7BySu/view?usp=drivesdk" target="_blank">View my resume</a></li>
-  <li>⚡ Fun fact: <em>I am the funniest when you are around me, as mentioned 😂</em></li>
-</ul>
+<h1 align="center" style="color: #4A90E2;">🌟 Hi 👋, I'm Aruthra</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aruthramanivannan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aruthra manivannan" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/aruthramanivannan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aruthramanivannan" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/k96XcHMW" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
+<p align="center" style="font-size: 1.2em; color: #555;">
+  <em>A passionate aspiring developer · Eloquence in Engineering · Dynamic Wordsmith · Freelance Content Writer · Engaging Public Speaker · Numismatic Enthusiast · Tech Explorer with Creative Flair</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+<hr style="border: 1px solid #4A90E2;">
+
+<p align="center" style="font-size: 1.5em; color: #333;">
+  <strong>"The only way to do great work is to love what you do." - Steve Jobs</strong>
+</p>
+
+<p align="center" style="font-size: 1.5em; color: #333;">
+  <strong>🌟 Personal Motto: "Embrace challenges, celebrate growth, and inspire others."</strong>
+</p>
+
+<hr style="border: 1px solid #4A90E2;">
+
+<h3 style="text-align: center; color: #4A90E2;">🔍 What I'm Up To</h3>
+<ul style="list-style-type: none; text-align: center; font-size: 1.1em;">
+  <li>🔭 Currently working on **mini projects**</li>
+  <li>🌱 Learning **Python, JavaScript**</li>
+  <li>👯 Looking to collaborate on **anything good that comes my way**</li>
+  <li>🤝 Seeking help to **learn and grow together with a good community**</li>
+  <li>👨‍💻 View my portfolio at 👉 <a href="https://aruthra785portfolio.my.canva.site/" target="_blank">aruthra785portfolio.my.canva.site</a></li>
+  <li>📝 Writing articles on **Psychological contexts, motivation, and a bit of technology**</li>
+</ul>
+
+<h3 style="text-align: center; color: #4A90E2;">💬 Ask Me About</h3>
+<ul style="list-style-type: none; text-align: center; font-size: 1.1em;">
+  <li>🎙 Public speaking</li>
+  <li>✍ Creative & bilingual writing</li>
+  <li>🪙 Numismatics</li>
+  <li>📖 Bibliophilia</li>
+  <li>🎶 Music & motivation</li>
+  <li>💡 Growth mindset and making a difference in society</li>
+</ul>
+
+<p align="center" style="font-size: 1.1em;">📫 Reach me at <strong>aruthramani785@outlook.com</strong></p>
+<p align="center" style="font-size: 1.1em;">📄 View my résumé 👉 <a href="https://drive.google.com/file/d/1YJTRE7Lo9jEMBWO9E_wWvL7wVaE7BySu/view?usp=drivesdk" target="_blank">Google Drive</a></p>
+<p align="center" style="font-size: 1.1em;">⚡ Fun fact: I’m the funniest when the people around me are *czary* as mentioned 😂</p>
+
+<hr style="border: 1px solid #4A90E2;">
+
+<h3 align="center" style="color: #4A90E2;">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aruthra-sm-sns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.leetcode.com/aruthramanivannan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
+  <a href="https://discord.gg/k96XcHMW" target="_blank"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&style=for-the-badge" /></a>
+</p>
+
+<hr style="border: 1px solid #4A90E2;">
+
+<h3 align="center" style="color: #4A90E2;">🧰 Languages & Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" height="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" height="40" />
+
+
+
+<hr style="border: 1px solid #4A90E2;">
+
+<h3 align="center" style="color: #4A90E2;">💬 Let's Connect!</h3>
+<p align="center" style="font-size: 1.1em;">
+  <strong>Let's connect and create something amazing together! Your ideas could spark the next big project!</strong>
 </p>
