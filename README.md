@@ -23,7 +23,7 @@
   <li>🌱 Learning **Python, JavaScript**</li>
   <li>👯 Looking to collaborate on **anything good that comes my way**</li>
   <li>🤝 Seeking help to **learn and grow together with a good community**</li>
-  <li>👨‍💻 View my portfolio at 👉 <a href="https://aruthra785portfolio.my.canva.site/" target="_blank">aruthra785portfolio.my.canva.site</a></li>
+  <li>👨‍💻 View my portfolio at 👉 <a href="https://aruthra785portfolio.my.canva.site/](https://aruthra07.github.io/Portfolio/" target="_blank">aruthra785portfolio.my.canva.site</a></li>
   <li>📝 Writing articles on **Psychological contexts, motivation, and a bit of technology**</li>
 </ul>
 
