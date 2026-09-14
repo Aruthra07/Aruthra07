@@ -1,0 +1,43 @@
+name: Master Daily README Refresh
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  daily-refresh:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate 3D Contribution Graph (Action)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Refresh Daily Quote, 3D Graph & Projects Panel
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python build_quote_svg.py
+          python build_3d_svg.py
+          python .github/scripts/fetch_data.py || true
+          python .github/scripts/generate_projects.py projects.json .
+
+      - name: Commit & Push Daily Updates
+        run: |
+          git config --local user.email "aruthramani785@outlook.com"
+          git config --local user.name "Aruthra07"
+          git add quote-dark.svg quote-light.svg profile-3d-contrib/ projects.svg projects-light.svg
+          git diff-index --quiet HEAD || git commit -m "Update profile assets [skip ci]"
+          git push

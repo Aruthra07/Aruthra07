@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="100" viewBox="0 0 1180 100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Contribution Quest">
+  <rect width="1180" height="100" fill="#0B1220" rx="12" />
+  <rect width="1178" height="98" x="1" y="1" fill="none" stroke="rgba(34,211,238,0.4)" stroke-width="1" rx="11" opacity="0.6" />
+  
+        <g transform="translate(35, 15)">
+          <rect width="190" height="65" rx="8" fill="#111827" stroke="#22D3EE" stroke-width="1.2" />
+          <circle cx="18" cy="20" r="3.5" fill="#22D3EE">
+            <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite" />
+          </circle>
+          <text x="28" y="24" font-size="11.5" font-weight="700" fill="#22D3EE">COMMIT</text>
+          <text x="14" y="44" font-size="9.5" fill="#94A3B8">Initial Code Push</text>
+        </g>
+        
+            <g transform="translate(233, 45)">
+              <line x1="0" y1="0" x2="28" y2="0" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 2" />
+              <polygon points="28,-4 34,0 28,4" fill="#22D3EE" />
+            </g>
+            
+        <g transform="translate(270, 15)">
+          <rect width="190" height="65" rx="8" fill="#111827" stroke="#A78BFA" stroke-width="1.2" />
+          <circle cx="18" cy="20" r="3.5" fill="#A78BFA">
+            <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+          </circle>
+          <text x="28" y="24" font-size="11.5" font-weight="700" fill="#A78BFA">CONTRIBUTE</text>
+          <text x="14" y="44" font-size="9.5" fill="#94A3B8">Pull Requests & Issues</text>
+        </g>
+        
+            <g transform="translate(468, 45)">
+              <line x1="0" y1="0" x2="28" y2="0" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 2" />
+              <polygon points="28,-4 34,0 28,4" fill="#22D3EE" />
+            </g>
+            
+        <g transform="translate(505, 15)">
+          <rect width="190" height="65" rx="8" fill="#111827" stroke="#10B981" stroke-width="1.2" />
+          <circle cx="18" cy="20" r="3.5" fill="#10B981">
+            <animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite" />
+          </circle>
+          <text x="28" y="24" font-size="11.5" font-weight="700" fill="#10B981">BUILD</text>
+          <text x="14" y="44" font-size="9.5" fill="#94A3B8">Solving Real Problems</text>
+        </g>
+        
+            <g transform="translate(703, 45)">
+              <line x1="0" y1="0" x2="28" y2="0" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 2" />
+              <polygon points="28,-4 34,0 28,4" fill="#22D3EE" />
+            </g>
+            
+        <g transform="translate(740, 15)">
+          <rect width="190" height="65" rx="8" fill="#111827" stroke="#EC4899" stroke-width="1.2" />
+          <circle cx="18" cy="20" r="3.5" fill="#EC4899">
+            <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite" />
+          </circle>
+          <text x="28" y="24" font-size="11.5" font-weight="700" fill="#EC4899">LEARN</text>
+          <text x="14" y="44" font-size="9.5" fill="#94A3B8">Multi-Cloud & GenAI</text>
+        </g>
+        
+            <g transform="translate(938, 45)">
+              <line x1="0" y1="0" x2="28" y2="0" stroke="#22D3EE" stroke-width="2" stroke-dasharray="4 2" />
+              <polygon points="28,-4 34,0 28,4" fill="#22D3EE" />
+            </g>
+            
+        <g transform="translate(975, 15)">
+          <rect width="190" height="65" rx="8" fill="#111827" stroke="#F59E0B" stroke-width="1.2" />
+          <circle cx="18" cy="20" r="3.5" fill="#F59E0B">
+            <animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite" />
+          </circle>
+          <text x="28" y="24" font-size="11.5" font-weight="700" fill="#F59E0B">REPEAT</text>
+          <text x="14" y="44" font-size="9.5" fill="#94A3B8">Continuous Evolution</text>
+        </g>
+        
+</svg>

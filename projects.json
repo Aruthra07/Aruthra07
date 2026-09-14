@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Smart Hydroponics System",
+    "repo": "Aruthra07/Smart-Hydroponics-System",
+    "description": "IoT-driven automated hydroponics monitoring & nutrient dosing system with real-time sensor analytics.",
+    "tags": ["IoT", "Python", "Automation", "Sensors"]
+  },
+  {
+    "name": "AI Career Recommendation App",
+    "repo": "Aruthra07/AI-Career-Recommendation",
+    "description": "Intelligent career track chooser analyzing student skills, interests, and tech industry trends using GenAI.",
+    "tags": ["Generative AI", "Python", "Data Science"]
+  },
+  {
+    "name": "Power BI AI Analyzer",
+    "repo": "Aruthra07/PowerBI-AI-Analyzer",
+    "description": "Automated business intelligence dashboard featuring NL query parsing and predictive analytics.",
+    "tags": ["Power BI", "Data Analytics", "SQL"]
+  },
+  {
+    "name": "SignBridge AI",
+    "repo": "Aruthra07/SignBridge-AI",
+    "description": "Real-time sign language translation tool bridging communication between deaf and hearing communities.",
+    "tags": ["Computer Vision", "Python", "Machine Learning"]
+  },
+  {
+    "name": "Revenue Intelligence Dashboard",
+    "repo": "Aruthra07/Revenue-Intelligence-NovaTech",
+    "description": "Interactive revenue growth & churn prediction dashboard engineered for NovaTech Solutions.",
+    "tags": ["Tableau", "Pandas", "Scikit-Learn"]
+  },
+  {
+    "name": "RFID Smart Access Control",
+    "repo": "Aruthra07/RFID-Smart-Access-Control",
+    "description": "Secure RFID authentication and cloud logging system for automated attendance & security.",
+    "tags": ["IoT", "C", "Cloud Computing"]
+  },
+  {
+    "name": "Personalized Stock Analyzer",
+    "repo": "Aruthra07/Stock-Dashboard-Analyzer",
+    "description": "Financial market tracking app featuring news sentiment analysis & price prediction models.",
+    "tags": ["Python", "NumPy", "AWS"]
+  },
+  {
+    "name": "n8n Workflow Automation",
+    "repo": "Aruthra07/Workflow-Form-Automation",
+    "description": "Low-code n8n workflow engine streamlining bulk data extraction and automated form submissions.",
+    "tags": ["n8n", "Workflow Automation", "Python"]
+  }
+]

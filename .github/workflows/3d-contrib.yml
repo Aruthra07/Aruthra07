@@ -1,0 +1,39 @@
+name: GitHub 3D Contribution Graph & Daily Updates
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib-svg
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate 3D Contribution Graph (Action)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate Daily Recommended Quote & 3D Graphs
+        run: |
+          python build_quote_svg.py
+          python build_3d_svg.py
+
+      - name: Commit & Push Updated SVGs
+        run: |
+          git config user.name 'Aruthra07'
+          git config user.email 'aruthramani785@outlook.com'
+          git add -A .
+          git diff-index --quiet HEAD || git commit -m "Update profile assets [skip ci]"
+          git push

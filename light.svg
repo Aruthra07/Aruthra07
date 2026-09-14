@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="180" viewBox="0 0 1180 180" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Aruthra S M Banner">
+  <defs>
+    <linearGradient id="grad_line_light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891B2" />
+      <stop offset="33%" stop-color="#7C3AED" />
+      <stop offset="66%" stop-color="#DB2777" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+
+  <!-- TOP STATUS BADGES (Frameless / Light pills) -->
+  <g transform="translate(10, 20)">
+    <rect width="210" height="24" rx="12" fill="rgba(8,145,178,0.08)" stroke="rgba(8,145,178,0.3)" />
+    <circle cx="14" cy="12" r="4" fill="#059669">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="26" y="16" font-size="10" font-weight="700" fill="#0891B2" letter-spacing="1">DEVELOPER_STATION // ONLINE</text>
+  </g>
+
+  <g transform="translate(930, 20)">
+    <rect width="240" height="24" rx="12" fill="rgba(8,145,178,0.08)" stroke="rgba(8,145,178,0.3)" />
+    <circle cx="14" cy="12" r="4" fill="#0891B2">
+      <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <text x="26" y="16" font-size="10" font-weight="700" fill="#7C3AED" letter-spacing="1">ECE @ SNS COLLEGE OF ENG '27</text>
+  </g>
+
+  <!-- HERO TITLE & TAGLINE -->
+  <g transform="translate(10, 85)">
+    <!-- Name -->
+    <text x="0" y="0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#0F172A" letter-spacing="-0.5">
+      &lt;<tspan fill="#0891B2">Aruthra S M</tspan>/&gt;
+      <tspan fill="#0891B2">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />_
+      </tspan>
+    </text>
+
+    <!-- Roles Subtitle -->
+    <text x="0" y="32" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#0891B2" letter-spacing="0.5">
+      Technology Enthusiast <tspan fill="#DB2777">•</tspan> AI Explorer <tspan fill="#DB2777">•</tspan> Community Leader <tspan fill="#DB2777">•</tspan> Public Speaker <tspan fill="#DB2777">•</tspan> Content Writer <tspan fill="#DB2777">•</tspan> Problem Solver
+    </text>
+
+    <!-- Animated Gradient Divider Line -->
+    <rect x="0" y="44" width="760" height="3" fill="url(#grad_line_light)" rx="1.5">
+      <animate attributeName="width" values="0;760" dur="1.2s" ease="ease-out" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- Bottom Info -->
+  <g transform="translate(10, 168)">
+    <text x="0" y="0" font-size="10" font-weight="600" fill="#475569" letter-spacing="1">LEARN • BUILD • SHARE • CONNECT</text>
+    <text x="1160" y="0" text-anchor="end" font-size="10" font-weight="600" fill="#475569">https://github.com/Aruthra07</text>
+  </g>
+</svg>

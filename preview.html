@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aruthra S M — GitHub Profile README Preview</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      transition: background-color 0.3s, color 0.3s;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    body.dark-theme {
+      background-color: #0b1220;
+      color: #f8fafc;
+    }
+    body.light-theme {
+      background-color: #ffffff;
+      color: #0f172a;
+    }
+    .top-bar {
+      position: sticky;
+      top: 0;
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    body.dark-theme .top-bar {
+      background: #111827;
+      border-bottom: 1px solid #1f2937;
+    }
+    body.light-theme .top-bar {
+      background: #f8fafc;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    .top-bar h1 {
+      font-size: 15px;
+      margin: 0;
+      font-weight: 700;
+    }
+    body.dark-theme .top-bar h1 { color: #22d3ee; }
+    body.light-theme .top-bar h1 { color: #0891b2; }
+
+    .theme-toggle button {
+      border: 1px solid #94a3b8;
+      padding: 6px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-weight: 600;
+      margin-left: 8px;
+    }
+    body.dark-theme .theme-toggle button {
+      background: #1f2937;
+      color: #f8fafc;
+      border-color: #374151;
+    }
+    body.light-theme .theme-toggle button {
+      background: #ffffff;
+      color: #0f172a;
+      border-color: #cbd5e1;
+    }
+    .container {
+      max-width: 960px;
+      margin: 24px auto;
+      padding: 30px;
+      border-radius: 12px;
+    }
+    body.dark-theme .container {
+      background: #0b1220;
+      border: 1px solid #1e293b;
+    }
+    body.light-theme .container {
+      background: #ffffff;
+      border: 1px solid #e2e8f0;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    }
+    .markdown-body {
+      background: transparent !important;
+    }
+    body.dark-theme .markdown-body {
+      color: #f8fafc !important;
+    }
+    body.light-theme .markdown-body {
+      color: #0f172a !important;
+    }
+    body.dark-theme .markdown-body table tr {
+      background-color: #0b1220 !important;
+    }
+    body.dark-theme .markdown-body table th,
+    body.dark-theme .markdown-body table td {
+      border-color: #1e293b !important;
+      color: #f8fafc !important;
+      background-color: #0b1220 !important;
+    }
+    body.dark-theme .markdown-body table tr:nth-child(2n) td {
+      background-color: #111827 !important;
+    }
+    body.dark-theme .markdown-body table th {
+      background-color: #1e293b !important;
+      color: #38bdf8 !important;
+      font-weight: 700;
+    }
+    body.dark-theme .markdown-body table td strong {
+      color: #38bdf8 !important;
+    }
+    .markdown-body :not(pre) > code,
+    .markdown-body pre,
+    .markdown-body code,
+    .markdown-body pre code {
+      background-color: transparent !important;
+      background: transparent !important;
+      border: none !important;
+      color: inherit !important;
+      padding: 0 !important;
+      box-shadow: none !important;
+    }
+    body.light-theme .markdown-body table th {
+      background-color: #f1f5f9 !important;
+      color: #0284c7 !important;
+      border-color: #cbd5e1 !important;
+      font-weight: 700;
+    }
+    body.light-theme .markdown-body table td {
+      border-color: #e2e8f0 !important;
+      color: #0f172a !important;
+      background-color: #ffffff !important;
+    }
+    body.light-theme .markdown-body table tr:nth-child(2n) td {
+      background-color: #f8fafc !important;
+    }
+    body.light-theme .markdown-body table td strong {
+      color: #0284c7 !important;
+    }
+  </style>
+</head>
+<body class="dark-theme">
+
+  <div class="top-bar">
+    <h1>🚀 Aruthra S M — GitHub Profile README (High Contrast Preview)</h1>
+    <div class="theme-toggle">
+      <button onclick="setTheme('dark')">🌙 Dark Mode</button>
+      <button onclick="setTheme('light')">☀️ Light Mode</button>
+    </div>
+  </div>
+
+  <div class="container">
+    <article id="content" class="markdown-body"></article>
+  </div>
+
+  <script>
+    function setTheme(theme) {
+      if (theme === 'light') {
+        document.body.className = 'light-theme';
+      } else {
+        document.body.className = 'dark-theme';
+      }
+    }
+
+    fetch('README.md')
+      .then(res => res.text())
+      .then(text => {
+        let localMd = text
+          .replace(/https:\/\/raw\.githubusercontent\.com\/Aruthra07\/Aruthra07\/main\//g, './')
+          .replace(/https:\/\/raw\.githubusercontent\.com\/Aruthra07\/Aruthra07\/output\//g, './');
+        
+        document.getElementById('content').innerHTML = marked.parse(localMd);
+        
+        // Handle anchor click redirect smooth scrolling
+        document.querySelectorAll('#content a[href^="#"]').forEach(anchor => {
+          anchor.addEventListener('click', function(e) {
+            e.preventDefault();
+            const targetId = this.getAttribute('href').substring(1);
+            const targetElement = document.getElementById(targetId) || document.querySelector(`[name="${targetId}"]`);
+            if (targetElement) {
+              targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+          });
+        });
+      })
+      .catch(err => {
+        document.getElementById('content').innerHTML = '<h2>Error loading README.md</h2><p>' + err + '</p>';
+      });
+  </script>
+
+</body>
+</html>

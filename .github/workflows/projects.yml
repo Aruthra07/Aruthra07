@@ -1,0 +1,39 @@
+name: Generate Projects Panel
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "projects.json"
+      - ".github/scripts/generate_projects.py"
+      - ".github/scripts/fetch_data.py"
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch live repo data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/fetch_data.py
+
+      - name: Generate projects.svg
+        run: |
+          python3 .github/scripts/generate_projects.py merged.json .
+
+      - name: Commit and Push SVGs
+        run: |
+          git config --local user.email "aruthramani785@outlook.com"
+          git config --local user.name "Aruthra07"
+          git add projects.svg projects-light.svg
+          git diff-index --quiet HEAD || git commit -m "Update projects panel [skip ci]"
+          git push
