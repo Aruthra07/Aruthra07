@@ -20,7 +20,7 @@ jobs:
           python-version: '3.x'
 
       - name: Generate 3D Contribution Graph (Action)
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}

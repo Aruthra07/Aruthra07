@@ -271,7 +271,7 @@ Click categories below to inspect detailed skill breakdowns:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aruthra07/Aruthra07/main/profile-3d-contrib/profile-night-view.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aruthra07/Aruthra07/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Aruthra's 3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aruthra07/Aruthra07/main/profile-3d-contrib/profile-night-view.svg" alt="Aruthra's 3D Contribution Graph" width="100%" />
 </picture>
 
 </div>
