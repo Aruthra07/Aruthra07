@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Action is the foundational key to all success."</text>
+  <text x="52" y="52" class="quote-animated">"Small daily improvements over time lead to stunning results."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Pablo Picasso</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Robin Sharma</text>
 </svg>
