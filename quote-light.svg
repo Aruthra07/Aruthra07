@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Simplicity is prerequisite for reliability."</text>
+  <text x="52" y="52" class="quote-animated">"Make it work, make it right, make it fast."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Edsger W. Dijkstra</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Kent Beck</text>
 </svg>
