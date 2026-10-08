@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Code is like humor. When you have to explain it, it's bad."</text>
+  <text x="52" y="52" class="quote-animated">"Fix the cause, not just the symptom."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Cory House</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Steve Maguire</text>
 </svg>
