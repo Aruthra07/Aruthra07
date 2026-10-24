@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Experience is the name everyone gives to their mistakes."</text>
+  <text x="52" y="52" class="quote-animated">"Data is the new oil, but intelligence is the engine."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Oscar Wilde</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Anonymous</text>
 </svg>
