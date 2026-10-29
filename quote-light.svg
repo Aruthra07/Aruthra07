@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Quality is not an act, it is a habit."</text>
+  <text x="52" y="52" class="quote-animated">"Action is the foundational key to all success."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Aristotle</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Pablo Picasso</text>
 </svg>
