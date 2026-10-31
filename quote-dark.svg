@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Small daily improvements over time lead to stunning results."</text>
+  <text x="52" y="52" class="quote-animated">"First, solve the problem. Then, write the code."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Robin Sharma</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— John Johnson</text>
 </svg>
