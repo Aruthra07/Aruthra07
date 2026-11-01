@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"First, solve the problem. Then, write the code."</text>
+  <text x="52" y="52" class="quote-animated">"Simplicity is prerequisite for reliability."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— John Johnson</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Edsger W. Dijkstra</text>
 </svg>
