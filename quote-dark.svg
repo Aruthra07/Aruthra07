@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Make it work, make it right, make it fast."</text>
+  <text x="52" y="52" class="quote-animated">"Talk is cheap. Show me the code."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Kent Beck</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Linus Torvalds</text>
 </svg>
