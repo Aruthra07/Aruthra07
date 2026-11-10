@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Software is a great combination between artistry and engineering."</text>
+  <text x="52" y="52" class="quote-animated">"Innovation distinguishes between a leader and a follower."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Bill Gates</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Steve Jobs</text>
 </svg>
