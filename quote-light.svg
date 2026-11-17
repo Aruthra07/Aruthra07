@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"Continuous learning is the minimum requirement for success in any field."</text>
+  <text x="52" y="52" class="quote-animated">"AI won't replace engineers, but engineers using AI will replace those who don't."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Denis Waitley</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Anonymous</text>
 </svg>
