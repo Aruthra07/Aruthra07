@@ -9,7 +9,7 @@
     
     .quote-animated {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-      font-size: 14px;
+      font-size: 16px;
       font-style: italic;
       font-weight: 600;
       animation: textShimmer 4s ease-in-out infinite;
@@ -31,8 +31,8 @@
   <text x="24" y="44" class="quote-icon">“</text>
 
   <!-- Animated Quote Text -->
-  <text x="52" y="52" class="quote-animated">"The future belongs to those who learn more skills and combine them in creative ways."</text>
+  <text x="52" y="52" class="quote-animated">"Technology is best when it brings people together."</text>
   
   <!-- Author -->
-  <text x="840" y="90" text-anchor="end" class="author-animated">— Robert Greene</text>
+  <text x="840" y="90" text-anchor="end" class="author-animated">— Matt Mullenweg</text>
 </svg>
